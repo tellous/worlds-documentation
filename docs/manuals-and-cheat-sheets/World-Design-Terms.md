@@ -1,4 +1,5 @@
 # World Design Terms
+Author: GausRoth
 
 **Core Mechanics** The core mechanics are the fundamental gameplay elements and interactions that define how players engage with the virtual world. These mechanics are essential for achieving objectives, earning rewards, and progressing within the world.
 
