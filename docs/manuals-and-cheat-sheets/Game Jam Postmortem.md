@@ -1,3 +1,5 @@
+# Game Postmortem Doc
+
 **World Name Postmortem**
 
 **Developer:** Studio name if any.  
@@ -26,21 +28,21 @@ List any relevant details or decisions made during the pre-production phase.
 
 **What Went Right: (3 minimum)**
 
-* Describe something that went right during development.  
-* Describe another thing that went right during development.  
-* Describe another thing that went right during development.
+- Describe something that went right during development.
+- Describe another thing that went right during development.
+- Describe another thing that went right during development.
 
 **What Went Wrong: (3 minimum)**
 
-* Describe something that went wrong during development.  
-* Describe another thing that went wrong during development.  
-* Describe another thing that went wrong during development.
+- Describe something that went wrong during development.
+- Describe another thing that went wrong during development.
+- Describe another thing that went wrong during development.
 
 **Project Reflections: (3 minimum)**
 
-* Describe a reflection you made during or after the development of the world.  
-* Describe another reflection you made during or after the development of the world.  
-* Describe another reflection you made during or after the development of the world.
+- Describe a reflection you made during or after the development of the world.
+- Describe another reflection you made during or after the development of the world.
+- Describe another reflection you made during or after the development of the world.
 
 **Future Improvements:**  
-In one paragraph describe any areas of improvement or future updates you plan for the world.  
+In one paragraph describe any areas of improvement or future updates you plan for the world.
