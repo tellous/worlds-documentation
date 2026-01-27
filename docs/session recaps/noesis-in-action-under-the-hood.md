@@ -9,6 +9,15 @@ By MKE_TheGuru
 ## Animated Countdown UI
 By Tellous
 
+* Asset shared to Public Assets
+  * Creator: Tellous
+  * Type: Interactive
+  * Name: Animated Countdown UI
+  * Tags: MHCP Mentor, Noesis, Countdown
+* Noesis Studio bundle
+  * <a href="../CountdownUI.zip">CountdownUI.zip</a>
+    * unzip this and 'add existing' in Noesis Studio
+
 ## Color Picker
 By Shards632
 
@@ -32,4 +41,6 @@ By GausRoth
 
 # Presentation PDF
 
+
 <embed src="../noesis-in-action-under-the-hood.pdf" width="100%" max-width="1000px" height="100%" max-height="800px" type='application/pdf'>
+
